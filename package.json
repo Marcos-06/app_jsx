@@ -15,7 +15,6 @@
     "@graphql-codegen/cli": "^5.0.2",
     "@graphql-codegen/typescript": "^4.0.9",
     "@graphql-codegen/typescript-operations": "^4.2.3",
-    "@graphql-codegen/typescript-react-apollo": "^4.3.0",
     "@vime/core": "^5.4.1",
     "@vime/react": "^5.4.1",
     "classnames": "^2.5.1",

@@ -1,6 +1,5 @@
 import { FormEvent, useState } from "react";
 import { Logo } from "../components/Logo";
-import { gql, useMutation } from "@apollo/client";
 import { useNavigate } from "react-router-dom";
 import { useCreateSubscriberMutation } from "../graphql/generated";
 
